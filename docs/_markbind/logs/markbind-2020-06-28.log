@@ -1,0 +1,12 @@
+2020-06-28T11:12:59.793Z - info: Website generation started at 7:12:59 PM
+2020-06-28T11:12:59.838Z - info: Building assets...
+2020-06-28T11:12:59.850Z - info: Assets built
+2020-06-28T11:12:59.851Z - info: Generating pages...
+2020-06-28T11:12:59.970Z - warn: box attribute 'heading' is deprecated and may be removed in the future. Please use 'header'
+2020-06-28T11:12:59.971Z - warn: box attribute 'heading' is deprecated and may be removed in the future. Please use 'header'
+2020-06-28T11:12:59.971Z - warn: box attribute 'heading' is deprecated and may be removed in the future. Please use 'header'
+2020-06-28T11:13:00.048Z - info: Pages built
+2020-06-28T11:13:00.091Z - info: Website generation complete! Total build time: 0.303s
+2020-06-28T11:13:00.107Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\src\template\default\_site" at http://127.0.0.1:8080
+2020-06-28T11:13:00.107Z - info: Press CTRL+C to stop ...
+2020-06-28T11:13:00.112Z - info: Site data built
