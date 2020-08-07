@@ -59,7 +59,7 @@
                   <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i></div>
               <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic3a.html" class="current">Topic 3a</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic3a.html">Topic 3a</a></div>
                 </li>
                 <li>
                   <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic3b.html">Topic 3b</a></div>
@@ -72,9 +72,56 @@
 
       <div id="content-wrapper">
         <br>
-        <box>
-          <span class="fas fa-tools"></span><span> This is a placeholder page</span></box>
+        <h1 id="about">About 👋<a class="fa fa-anchor" href="#about" onclick="event.stopPropagation()"></a></h1>
+        <blockquote>
+          <p>💻 <strong><strong>Hello!</strong></strong> I'm
+            Kendrick
+            , a year 3 <em><strong>Computer Science</strong></em> student <em>(as of 2020)</em>.</p>
+        </blockquote>
+        <p>I'm taking
+          <code v-pre>CP3106</code><span for="pop:footnote1" v-b-popover.hover.top.html="popoverGenerator" v-b-tooltip.hover.top.html="tooltipContentGetter" v-on:mouseover="$refs['pop:footnote1'].show()" class="trigger"><sup class="footnote-ref"><a aria-describedby="footnote-label" href="#footnote1" id="footnoteref1">[1]</a></sup></span>
+          as a module in the
+          National University of Singapore
+          this semester!
+          Since I'll be working on
+          <code v-pre>MarkBind</code>
+          , in order to get my acquainted with it, I'll be using this website to document my journey into
+          <code v-pre>MarkBind</code>
+          .</p>
+        <h2 id="goals">Goals 🏆<a class="fa fa-anchor" href="#goals" onclick="event.stopPropagation()"></a></h2>
+        <ul radio-group="29629" class="radio-list">
+          <li class="radio-list-item">
+            <p><label><input class="radio-list-input" checked name="29629" type="radio"> setup project</label></p>
+          </li>
+          <li class="radio-list-item">
+            <p><label><input class="radio-list-input" name="29629" type="radio"> learn how to build websites with
+                <code v-pre>MarkBind</code></label></p>
+            <ul class="contains-task-list">
+              <li class="task-list-item enabled"><input class="task-list-item-checkbox" checked type="checkbox">
+                <code v-pre>MarkBind</code>
+                markdown extensions</li>
+              <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox">
+                <code v-pre>MarkBind</code>
+                custom syntax</li>
+            </ul>
+          </li>
+        </ul>
+        <hr class="footnotes-sep">
+        <section class="footnotes">
+          <ol class="footnotes-list">
+            <li id="footnote1" class="footnote-item">
+              <p><strong>CP3106</strong> is an Independent Study Module, providing students with opportunities to pursue customised modules for graduation credits.</p>
+            </li>
+          </ol>
+          <span id="pop:footnote1" data-mb-component-type="popover" v-b-popover.hover.top.html="popoverInnerGenerator" class="trigger">
+            <div data-mb-html-for="content">
+              <p><strong>CP3106</strong> is an Independent Study Module, providing students with opportunities to pursue customised modules for graduation credits.</p>
+            </div>
+          </span>
+        </section>
       </div>
+
+
 
 
     </div>

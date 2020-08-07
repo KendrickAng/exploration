@@ -1,6 +1,7 @@
 <header>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">CP3106 Blog</a>
+    <li><a href="{{baseUrl}}/contents/about.html" class="nav-link">About</a></li>
     <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
     <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
     <dropdown header="Topic 3" class="nav-link">

@@ -1,0 +1,341 @@
+2020-08-07T09:03:52.354Z - info: Website generation started at 5:03:52 PM
+2020-08-07T09:03:52.730Z - info: Building assets...
+2020-08-07T09:03:52.744Z - info: Assets built
+2020-08-07T09:03:52.745Z - info: Generating pages...
+2020-08-07T09:03:53.033Z - info: Pages built
+2020-08-07T09:03:53.309Z - info: Website generation complete! Total build time: 0.989s
+2020-08-07T09:03:53.340Z - info: Serving "C:\Users\Kendrick\IdeaProjects\exploration\markbind\_site" at http://127.0.0.1:8080
+2020-08-07T09:03:53.341Z - info: Press CTRL+C to stop ...
+2020-08-07T09:03:53.457Z - info: Site data built
+2020-08-07T09:09:11.229Z - info: [5:09:11 PM] Reload for file add: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.txt
+2020-08-07T09:09:12.234Z - info: Assets built
+2020-08-07T09:09:17.400Z - info: [5:09:17 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.txt
+2020-08-07T09:09:18.410Z - info: Assets built
+2020-08-07T09:09:27.516Z - info: [5:09:27 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.txt
+2020-08-07T09:09:28.526Z - info: Assets built
+2020-08-07T09:11:18.215Z - info: [5:11:18 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\site.json
+2020-08-07T09:11:19.218Z - info: Assets built
+2020-08-07T09:14:58.605Z - info: [5:14:58 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\navigation\site-nav.md
+2020-08-07T09:14:59.608Z - info: Rebuilding 5 pages
+2020-08-07T09:14:59.942Z - info: Pages rebuilt
+2020-08-07T09:14:59.942Z - info: Website regeneration complete! Total build time: 0.335s
+2020-08-07T09:14:59.948Z - info: Site data built
+2020-08-07T09:15:37.020Z - info: [5:15:37 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\navigation\site-nav.md
+2020-08-07T09:15:38.020Z - info: Rebuilding 5 pages
+2020-08-07T09:15:38.208Z - info: Pages rebuilt
+2020-08-07T09:15:38.209Z - info: Website regeneration complete! Total build time: 0.188s
+2020-08-07T09:15:38.211Z - info: Site data built
+2020-08-07T09:15:59.783Z - info: [5:15:59 PM] Reload for file add: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.md
+2020-08-07T09:16:00.783Z - info: File added or removed, updating list of site's pages...
+2020-08-07T09:16:01.792Z - info: Assets removed
+2020-08-07T09:16:01.793Z - warn: Rebuilding all pages...
+2020-08-07T09:16:01.793Z - info: Generating pages...
+2020-08-07T09:16:02.036Z - info: Pages built
+2020-08-07T09:16:18.072Z - info: [5:16:18 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\navigation\site-nav.md
+2020-08-07T09:16:18.076Z - info: [5:16:18 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.md
+2020-08-07T09:16:19.075Z - info: Rebuilding 6 pages
+2020-08-07T09:16:19.311Z - info: Pages rebuilt
+2020-08-07T09:16:19.311Z - info: Website regeneration complete! Total build time: 0.237s
+2020-08-07T09:16:19.314Z - info: Site data built
+2020-08-07T09:16:28.764Z - info: [5:16:28 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\navigation\site-nav.md
+2020-08-07T09:16:29.767Z - info: Rebuilding 5 pages
+2020-08-07T09:16:29.962Z - info: Pages rebuilt
+2020-08-07T09:16:29.963Z - info: Website regeneration complete! Total build time: 0.195s
+2020-08-07T09:16:29.965Z - info: Site data built
+2020-08-07T09:16:46.704Z - info: Website generation started at 5:16:46 PM
+2020-08-07T09:16:46.775Z - info: Building assets...
+2020-08-07T09:16:46.790Z - info: Assets built
+2020-08-07T09:16:46.790Z - info: Generating pages...
+2020-08-07T09:16:47.154Z - info: Pages built
+2020-08-07T09:16:47.215Z - info: Website generation complete! Total build time: 0.529s
+2020-08-07T09:16:47.245Z - info: Serving "C:\Users\Kendrick\IdeaProjects\exploration\markbind\_site" at http://127.0.0.1:8080
+2020-08-07T09:16:47.245Z - info: Press CTRL+C to stop ...
+2020-08-07T09:16:47.265Z - info: Site data built
+2020-08-07T09:32:11.317Z - info: [5:32:11 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\topic1.md
+2020-08-07T09:32:12.321Z - info: Rebuilding 1 pages
+2020-08-07T09:32:12.367Z - info: Pages rebuilt
+2020-08-07T09:32:12.368Z - info: Website regeneration complete! Total build time: 0.047s
+2020-08-07T09:32:12.371Z - info: Site data built
+2020-08-07T09:32:27.950Z - info: [5:32:27 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\topic1.md
+2020-08-07T09:32:28.953Z - info: Rebuilding 1 pages
+2020-08-07T09:32:28.996Z - info: Pages rebuilt
+2020-08-07T09:32:28.996Z - info: Website regeneration complete! Total build time: 0.043s
+2020-08-07T09:32:28.998Z - info: Site data built
+2020-08-07T09:32:33.180Z - info: [5:32:33 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\topic1.md
+2020-08-07T09:32:34.182Z - info: Rebuilding 1 pages
+2020-08-07T09:32:34.216Z - info: Pages rebuilt
+2020-08-07T09:32:34.216Z - info: Website regeneration complete! Total build time: 0.034s
+2020-08-07T09:32:34.219Z - info: Site data built
+2020-08-07T09:32:47.518Z - info: Website generation started at 5:32:47 PM
+2020-08-07T09:32:47.573Z - info: Building assets...
+2020-08-07T09:32:47.588Z - info: Assets built
+2020-08-07T09:32:47.589Z - info: Generating pages...
+2020-08-07T09:32:47.861Z - info: Pages built
+2020-08-07T09:32:47.919Z - info: Website generation complete! Total build time: 0.419s
+2020-08-07T09:32:47.946Z - info: Serving "C:\Users\Kendrick\IdeaProjects\exploration\markbind\_site" at http://127.0.0.1:8080
+2020-08-07T09:32:47.946Z - info: Press CTRL+C to stop ...
+2020-08-07T09:32:47.965Z - info: Site data built
+2020-08-07T09:32:53.986Z - info: [5:32:53 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\topic1.md
+2020-08-07T09:32:54.989Z - info: Rebuilding 1 pages
+2020-08-07T09:32:55.021Z - info: Pages rebuilt
+2020-08-07T09:32:55.022Z - info: Website regeneration complete! Total build time: 0.033s
+2020-08-07T09:32:55.024Z - info: Site data built
+2020-08-07T09:34:16.190Z - info: [5:34:16 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\headers\header.md
+2020-08-07T09:34:17.193Z - info: Rebuilding 5 pages
+2020-08-07T09:34:17.456Z - info: Pages rebuilt
+2020-08-07T09:34:17.456Z - info: Website regeneration complete! Total build time: 0.263s
+2020-08-07T09:34:17.460Z - info: Site data built
+2020-08-07T09:35:37.981Z - info: [5:35:37 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\headers\header.md
+2020-08-07T09:35:38.984Z - info: Rebuilding 5 pages
+2020-08-07T09:35:39.187Z - info: Pages rebuilt
+2020-08-07T09:35:39.188Z - info: Website regeneration complete! Total build time: 0.203s
+2020-08-07T09:35:39.190Z - info: Site data built
+2020-08-07T09:45:02.561Z - info: [5:45:02 PM] Reload for file deletion: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.md
+2020-08-07T09:45:02.561Z - info: [5:45:02 PM] Reload for file deletion: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\test.txt
+2020-08-07T09:45:03.562Z - info: File added or removed, updating list of site's pages...
+2020-08-07T09:45:03.571Z - info: Assets removed
+2020-08-07T09:45:04.572Z - info: Assets removed
+2020-08-07T09:45:04.573Z - warn: Rebuilding all pages...
+2020-08-07T09:45:04.573Z - info: Generating pages...
+2020-08-07T09:45:04.740Z - info: Pages built
+2020-08-07T09:45:06.238Z - info: [5:45:06 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\navigation\site-nav.md
+2020-08-07T09:45:07.241Z - info: Rebuilding 5 pages
+2020-08-07T09:45:07.375Z - info: Pages rebuilt
+2020-08-07T09:45:07.376Z - info: Website regeneration complete! Total build time: 0.134s
+2020-08-07T09:45:07.378Z - info: Site data built
+2020-08-07T09:45:26.996Z - info: [5:45:26 PM] Reload for file add: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:45:27.998Z - info: File added or removed, updating list of site's pages...
+2020-08-07T09:45:29.001Z - info: Assets removed
+2020-08-07T09:45:29.002Z - warn: Rebuilding all pages...
+2020-08-07T09:45:29.002Z - info: Generating pages...
+2020-08-07T09:45:29.150Z - info: Pages built
+2020-08-07T09:45:34.861Z - info: [5:45:34 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:45:35.863Z - info: Rebuilding 1 pages
+2020-08-07T09:45:35.892Z - info: Pages rebuilt
+2020-08-07T09:45:35.892Z - info: Website regeneration complete! Total build time: 0.03s
+2020-08-07T09:45:35.894Z - info: Site data built
+2020-08-07T09:47:59.724Z - info: [5:47:59 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:48:00.728Z - info: Rebuilding 1 pages
+2020-08-07T09:48:00.762Z - info: Pages rebuilt
+2020-08-07T09:48:00.763Z - info: Website regeneration complete! Total build time: 0.036s
+2020-08-07T09:48:00.766Z - info: Site data built
+2020-08-07T09:48:54.603Z - info: [5:48:54 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:48:55.605Z - info: Rebuilding 1 pages
+2020-08-07T09:48:55.636Z - info: Pages rebuilt
+2020-08-07T09:48:55.637Z - info: Website regeneration complete! Total build time: 0.033s
+2020-08-07T09:48:55.639Z - info: Site data built
+2020-08-07T09:52:13.002Z - info: [5:52:13 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:52:14.004Z - info: Rebuilding 1 pages
+2020-08-07T09:52:14.031Z - info: Pages rebuilt
+2020-08-07T09:52:14.032Z - info: Website regeneration complete! Total build time: 0.028s
+2020-08-07T09:52:14.034Z - info: Site data built
+2020-08-07T09:52:48.277Z - info: [5:52:48 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:52:49.280Z - info: Rebuilding 1 pages
+2020-08-07T09:52:49.309Z - info: Pages rebuilt
+2020-08-07T09:52:49.309Z - info: Website regeneration complete! Total build time: 0.03s
+2020-08-07T09:52:49.311Z - info: Site data built
+2020-08-07T09:53:03.955Z - info: [5:53:03 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T09:53:04.957Z - info: Rebuilding 1 pages
+2020-08-07T09:53:04.985Z - info: Pages rebuilt
+2020-08-07T09:53:04.986Z - info: Website regeneration complete! Total build time: 0.029s
+2020-08-07T09:53:04.989Z - info: Site data built
+2020-08-07T10:02:08.048Z - info: [6:02:08 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:02:09.050Z - info: Rebuilding 1 pages
+2020-08-07T10:02:09.073Z - info: Pages rebuilt
+2020-08-07T10:02:09.073Z - info: Website regeneration complete! Total build time: 0.024s
+2020-08-07T10:02:09.075Z - info: Site data built
+2020-08-07T10:03:03.649Z - info: [6:03:03 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:03:04.651Z - info: Rebuilding 1 pages
+2020-08-07T10:03:04.675Z - info: Pages rebuilt
+2020-08-07T10:03:04.676Z - info: Website regeneration complete! Total build time: 0.025s
+2020-08-07T10:03:04.679Z - info: Site data built
+2020-08-07T10:04:22.400Z - info: [6:04:22 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:04:23.402Z - info: Rebuilding 1 pages
+2020-08-07T10:04:23.428Z - info: Pages rebuilt
+2020-08-07T10:04:23.428Z - info: Website regeneration complete! Total build time: 0.027s
+2020-08-07T10:04:23.430Z - info: Site data built
+2020-08-07T10:10:28.647Z - info: [6:10:28 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:10:29.649Z - info: Rebuilding 1 pages
+2020-08-07T10:10:29.680Z - info: Pages rebuilt
+2020-08-07T10:10:29.680Z - info: Website regeneration complete! Total build time: 0.032s
+2020-08-07T10:10:29.682Z - info: Site data built
+2020-08-07T10:10:33.660Z - info: [6:10:33 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:10:34.662Z - info: Rebuilding 1 pages
+2020-08-07T10:10:34.685Z - info: Pages rebuilt
+2020-08-07T10:10:34.686Z - info: Website regeneration complete! Total build time: 0.023s
+2020-08-07T10:10:34.687Z - info: Site data built
+2020-08-07T10:10:59.698Z - info: [6:10:59 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:11:00.701Z - info: Rebuilding 1 pages
+2020-08-07T10:11:00.726Z - info: Pages rebuilt
+2020-08-07T10:11:00.727Z - info: Website regeneration complete! Total build time: 0.026s
+2020-08-07T10:11:00.729Z - info: Site data built
+2020-08-07T10:11:09.731Z - info: [6:11:09 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:11:10.733Z - info: Rebuilding 1 pages
+2020-08-07T10:11:10.763Z - info: Pages rebuilt
+2020-08-07T10:11:10.763Z - info: Website regeneration complete! Total build time: 0.031s
+2020-08-07T10:11:10.765Z - info: Site data built
+2020-08-07T10:13:15.012Z - info: [6:13:15 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:13:16.016Z - info: Rebuilding 1 pages
+2020-08-07T10:13:16.048Z - info: Pages rebuilt
+2020-08-07T10:13:16.049Z - info: Website regeneration complete! Total build time: 0.034s
+2020-08-07T10:13:16.057Z - info: Site data built
+2020-08-07T10:13:26.976Z - info: [6:13:26 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:13:27.980Z - info: Rebuilding 1 pages
+2020-08-07T10:13:28.006Z - info: Pages rebuilt
+2020-08-07T10:13:28.006Z - info: Website regeneration complete! Total build time: 0.027s
+2020-08-07T10:13:28.008Z - info: Site data built
+2020-08-07T10:13:52.062Z - info: [6:13:52 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:13:53.065Z - info: Rebuilding 1 pages
+2020-08-07T10:13:53.096Z - info: Pages rebuilt
+2020-08-07T10:13:53.097Z - info: Website regeneration complete! Total build time: 0.031s
+2020-08-07T10:13:53.101Z - info: Site data built
+2020-08-07T10:14:10.877Z - info: [6:14:10 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:14:11.881Z - info: Rebuilding 1 pages
+2020-08-07T10:14:11.906Z - info: Pages rebuilt
+2020-08-07T10:14:11.906Z - info: Website regeneration complete! Total build time: 0.025s
+2020-08-07T10:14:11.909Z - info: Site data built
+2020-08-07T10:14:26.328Z - info: [6:14:26 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:14:27.330Z - info: Rebuilding 1 pages
+2020-08-07T10:14:27.352Z - info: Pages rebuilt
+2020-08-07T10:14:27.352Z - info: Website regeneration complete! Total build time: 0.022s
+2020-08-07T10:14:27.354Z - info: Site data built
+2020-08-07T10:17:55.881Z - info: [6:17:55 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:17:56.884Z - info: Rebuilding 1 pages
+2020-08-07T10:17:56.910Z - info: Pages rebuilt
+2020-08-07T10:17:56.910Z - info: Website regeneration complete! Total build time: 0.027s
+2020-08-07T10:17:56.912Z - info: Site data built
+2020-08-07T10:18:40.644Z - info: [6:18:40 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:18:41.645Z - info: Rebuilding 1 pages
+2020-08-07T10:18:41.672Z - info: Pages rebuilt
+2020-08-07T10:18:41.673Z - info: Website regeneration complete! Total build time: 0.029s
+2020-08-07T10:18:41.675Z - info: Site data built
+2020-08-07T10:19:07.960Z - info: [6:19:07 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:19:08.963Z - info: Rebuilding 1 pages
+2020-08-07T10:19:08.990Z - info: Pages rebuilt
+2020-08-07T10:19:08.990Z - info: Website regeneration complete! Total build time: 0.027s
+2020-08-07T10:19:08.993Z - info: Site data built
+2020-08-07T10:19:17.840Z - info: [6:19:17 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:19:18.843Z - info: Rebuilding 1 pages
+2020-08-07T10:19:18.866Z - info: Pages rebuilt
+2020-08-07T10:19:18.867Z - info: Website regeneration complete! Total build time: 0.025s
+2020-08-07T10:19:18.870Z - info: Site data built
+2020-08-07T10:21:14.894Z - info: [6:21:14 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:21:15.896Z - info: Rebuilding 1 pages
+2020-08-07T10:21:15.921Z - info: Pages rebuilt
+2020-08-07T10:21:15.921Z - info: Website regeneration complete! Total build time: 0.026s
+2020-08-07T10:21:15.923Z - info: Site data built
+2020-08-07T10:22:28.177Z - info: [6:22:28 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:22:29.180Z - info: Rebuilding 1 pages
+2020-08-07T10:22:29.213Z - info: Pages rebuilt
+2020-08-07T10:22:29.213Z - info: Website regeneration complete! Total build time: 0.034s
+2020-08-07T10:22:29.215Z - info: Site data built
+2020-08-07T10:22:40.896Z - info: [6:22:40 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:22:41.900Z - info: Rebuilding 1 pages
+2020-08-07T10:22:41.931Z - info: Pages rebuilt
+2020-08-07T10:22:41.932Z - info: Website regeneration complete! Total build time: 0.033s
+2020-08-07T10:22:41.934Z - info: Site data built
+2020-08-07T10:22:59.233Z - info: [6:22:59 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:23:00.236Z - info: Rebuilding 1 pages
+2020-08-07T10:23:00.270Z - info: Pages rebuilt
+2020-08-07T10:23:00.270Z - info: Website regeneration complete! Total build time: 0.034s
+2020-08-07T10:23:00.272Z - info: Site data built
+2020-08-07T10:23:27.878Z - info: [6:23:27 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:23:28.882Z - info: Rebuilding 1 pages
+2020-08-07T10:23:28.909Z - info: Pages rebuilt
+2020-08-07T10:23:28.909Z - info: Website regeneration complete! Total build time: 0.028s
+2020-08-07T10:23:28.911Z - info: Site data built
+2020-08-07T10:24:07.776Z - info: [6:24:07 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:24:08.779Z - info: Rebuilding 1 pages
+2020-08-07T10:24:08.807Z - info: Pages rebuilt
+2020-08-07T10:24:08.807Z - info: Website regeneration complete! Total build time: 0.029s
+2020-08-07T10:24:08.810Z - info: Site data built
+2020-08-07T10:24:46.217Z - info: [6:24:46 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:24:47.219Z - info: Rebuilding 1 pages
+2020-08-07T10:24:47.247Z - info: Pages rebuilt
+2020-08-07T10:24:47.247Z - info: Website regeneration complete! Total build time: 0.028s
+2020-08-07T10:24:47.249Z - info: Site data built
+2020-08-07T10:25:03.971Z - info: [6:25:03 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:25:04.973Z - info: Rebuilding 1 pages
+2020-08-07T10:25:04.999Z - info: Pages rebuilt
+2020-08-07T10:25:05.000Z - info: Website regeneration complete! Total build time: 0.027s
+2020-08-07T10:25:05.002Z - info: Site data built
+2020-08-07T10:25:17.131Z - info: [6:25:17 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:25:18.135Z - info: Rebuilding 1 pages
+2020-08-07T10:25:18.164Z - info: Pages rebuilt
+2020-08-07T10:25:18.165Z - info: Website regeneration complete! Total build time: 0.031s
+2020-08-07T10:25:18.168Z - info: Site data built
+2020-08-07T10:27:05.506Z - info: [6:27:05 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:27:06.509Z - info: Rebuilding 1 pages
+2020-08-07T10:27:06.537Z - info: Pages rebuilt
+2020-08-07T10:27:06.538Z - info: Website regeneration complete! Total build time: 0.029s
+2020-08-07T10:27:06.540Z - info: Site data built
+2020-08-07T10:27:09.353Z - info: [6:27:09 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:27:10.356Z - info: Rebuilding 1 pages
+2020-08-07T10:27:10.383Z - info: Pages rebuilt
+2020-08-07T10:27:10.384Z - info: Website regeneration complete! Total build time: 0.028s
+2020-08-07T10:27:10.386Z - info: Site data built
+2020-08-07T10:27:43.223Z - info: [6:27:43 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:27:44.227Z - info: Rebuilding 1 pages
+2020-08-07T10:27:44.264Z - info: Pages rebuilt
+2020-08-07T10:27:44.264Z - info: Website regeneration complete! Total build time: 0.038s
+2020-08-07T10:27:44.266Z - info: Site data built
+2020-08-07T10:30:42.840Z - info: [6:30:42 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:30:43.845Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:30:43.846Z - info: Rebuilding 6 pages
+2020-08-07T10:30:44.046Z - info: Pages rebuilt
+2020-08-07T10:30:44.046Z - info: Website regeneration complete! Total build time: 0.206s
+2020-08-07T10:30:44.050Z - info: Site data built
+2020-08-07T10:31:10.713Z - info: [6:31:10 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:31:11.715Z - info: Rebuilding 1 pages
+2020-08-07T10:31:11.745Z - info: Pages rebuilt
+2020-08-07T10:31:11.745Z - info: Website regeneration complete! Total build time: 0.031s
+2020-08-07T10:31:11.748Z - info: Site data built
+2020-08-07T10:31:54.075Z - info: [6:31:54 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:31:54.080Z - info: [6:31:54 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:31:55.077Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:31:55.078Z - info: Rebuilding 6 pages
+2020-08-07T10:31:55.214Z - info: Pages rebuilt
+2020-08-07T10:31:55.215Z - info: Website regeneration complete! Total build time: 0.139s
+2020-08-07T10:31:55.217Z - info: Site data built
+2020-08-07T10:32:51.398Z - info: [6:32:51 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:32:52.400Z - info: Rebuilding 1 pages
+2020-08-07T10:32:52.430Z - info: Pages rebuilt
+2020-08-07T10:32:52.431Z - info: Website regeneration complete! Total build time: 0.031s
+2020-08-07T10:32:52.433Z - info: Site data built
+2020-08-07T10:33:39.042Z - info: [6:33:39 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\contents\about.md
+2020-08-07T10:33:39.048Z - info: [6:33:39 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:33:40.048Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:33:40.049Z - info: Rebuilding 6 pages
+2020-08-07T10:33:40.188Z - info: Pages rebuilt
+2020-08-07T10:33:40.189Z - info: Website regeneration complete! Total build time: 0.144s
+2020-08-07T10:33:40.191Z - info: Site data built
+2020-08-07T10:34:00.471Z - info: [6:34:00 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:34:01.476Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:34:01.476Z - info: Rebuilding 6 pages
+2020-08-07T10:34:01.620Z - info: Pages rebuilt
+2020-08-07T10:34:01.621Z - info: Website regeneration complete! Total build time: 0.147s
+2020-08-07T10:34:01.624Z - info: Site data built
+2020-08-07T10:34:22.483Z - info: [6:34:22 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:34:23.486Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:34:23.487Z - info: Rebuilding 6 pages
+2020-08-07T10:34:23.621Z - info: Pages rebuilt
+2020-08-07T10:34:23.622Z - info: Website regeneration complete! Total build time: 0.138s
+2020-08-07T10:34:23.624Z - info: Site data built
+2020-08-07T10:34:39.106Z - info: [6:34:39 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:34:40.111Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:34:40.112Z - info: Rebuilding 6 pages
+2020-08-07T10:34:40.247Z - info: Pages rebuilt
+2020-08-07T10:34:40.247Z - info: Website regeneration complete! Total build time: 0.138s
+2020-08-07T10:34:40.249Z - info: Site data built
+2020-08-07T10:35:03.426Z - info: [6:35:03 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:35:04.430Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:35:04.431Z - info: Rebuilding 6 pages
+2020-08-07T10:35:04.571Z - info: Pages rebuilt
+2020-08-07T10:35:04.571Z - info: Website regeneration complete! Total build time: 0.144s
+2020-08-07T10:35:04.574Z - info: Site data built
+2020-08-07T10:35:13.321Z - info: [6:35:13 PM] Reload for file change: C:\Users\Kendrick\IdeaProjects\exploration\markbind\_markbind\variables.md
+2020-08-07T10:35:14.329Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-08-07T10:35:14.330Z - info: Rebuilding 6 pages
+2020-08-07T10:35:14.551Z - info: Pages rebuilt
+2020-08-07T10:35:14.552Z - info: Website regeneration complete! Total build time: 0.23s
+2020-08-07T10:35:14.554Z - info: Site data built

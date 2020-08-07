@@ -4,6 +4,18 @@
     {
       "header": "header.md",
       "siteNav": "site-nav.md",
+      "src": "contents/about.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "about": "About 👋",
+        "goals": "Goals 🏆"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "siteNav": "site-nav.md",
       "src": "contents/topic1.md",
       "title": "",
       "layout": "default",
@@ -45,7 +57,7 @@
       "pageNavTitle": "Chapters of This Page",
       "siteNav": "site-nav.md",
       "src": "index.md",
-      "title": "Landing Page",
+      "title": "Kendrick's CP3106 Blog",
       "layout": "default",
       "headings": {
         "heading-1": "Heading 1",

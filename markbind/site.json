@@ -15,7 +15,7 @@
   "pages": [
     {
       "src": "index.md",
-      "title": "Landing Page"
+      "title": "Kendrick's CP3106 Blog"
     },
     {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
