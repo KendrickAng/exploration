@@ -75,12 +75,16 @@
         <br>
         <div class="jumbotron jumbotron-fluid bg-primary text-white">
           <div class="container">
-            <h1 class="display-4 no-index" id="landing-page-title">Landing Page Title<a class="fa fa-anchor" href="#landing-page-title" onclick="event.stopPropagation()"></a></h1>
-            <p class="lead">Welcome to Kendrick's website!</p>
+            <h1 class="display-4 no-index" id="kendrick-s-cp3106-blog">Kendrick's CP3106 Blog<a class="fa fa-anchor" href="#kendrick-s-cp3106-blog" onclick="event.stopPropagation()"></a></h1>
+            <p class="lead">Journalling my journey through MarkBind</p>
           </div>
         </div>
-        <h1 id="heading-1">Heading 1<a class="fa fa-anchor" href="#heading-1" onclick="event.stopPropagation()"></a></h1>
-        <p>Some text some text some text some text some text some text some text. <strong>Some text some text some text some text some text <mark>some text</mark> some text</strong>. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.</p>
+        <h1 id="introduction">Introduction<a class="fa fa-anchor" href="#introduction" onclick="event.stopPropagation()"></a></h1>
+        <p>Hello! I'll be using this page to keep track of my progress through
+          <code v-pre>MarkBind</code>
+          .</p>
+        <h1 id="blog-structure">Blog Structure<a class="fa fa-anchor" href="#blog-structure" onclick="event.stopPropagation()"></a></h1>
+        <p>I plan to split my content into NUS academic weeks<span for="pop:footnote1" v-b-popover.hover.top.html="popoverGenerator" v-b-tooltip.hover.top.html="tooltipContentGetter" v-on:mouseover="$refs['pop:footnote1'].show()" class="trigger"><sup class="footnote-ref"><a aria-describedby="footnote-label" href="#footnote1" id="footnoteref1">[1]</a></sup></span>, keeping track of what happened every week.</p>
         <p><strong>A block quote:</strong></p>
         <blockquote>
           <p>Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.</p>
@@ -211,14 +215,30 @@
           </panel>
         </p>
         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr class="footnotes-sep">
+        <section class="footnotes">
+          <ol class="footnotes-list">
+            <li id="footnote1" class="footnote-item">
+              <p>A semester includes 13 weeks of instruction and 2 weeks of end-of-year examinations.</p>
+            </li>
+          </ol>
+          <span id="pop:footnote1" data-mb-component-type="popover" v-b-popover.hover.top.html="popoverInnerGenerator" class="trigger">
+            <div data-mb-html-for="content">
+              <p>A semester includes 13 weeks of instruction and 2 weeks of end-of-year examinations.</p>
+            </div>
+          </span>
+        </section>
       </div>
+
+
 
 
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
           <a class="navbar-brand page-nav-title" href="#">Chapters of This Page</a>
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#heading-1">Heading 1&#x200E;</a>
+            <a class="nav-link py-1" href="#introduction">Introduction&#x200E;</a>
+            <a class="nav-link py-1" href="#blog-structure">Blog Structure&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
               <a class="nav-link py-1" href="#sub-heading-1-1">Sub Heading 1.1&#x200E;</a>
               <a class="nav-link py-1" href="#sub-heading-1-2">Sub Heading 1.2&#x200E;</a>

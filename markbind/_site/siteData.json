@@ -60,7 +60,8 @@
       "title": "Kendrick's CP3106 Blog",
       "layout": "default",
       "headings": {
-        "heading-1": "Heading 1",
+        "introduction": "Introduction",
+        "blog-structure": "Blog Structure",
         "sub-heading-1-1": "Sub Heading 1.1",
         "sub-heading-1-2": "Sub Heading 1.2",
         "heading-2": "Heading 2",
