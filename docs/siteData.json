@@ -4,39 +4,38 @@
     {
       "header": "header.md",
       "siteNav": "site-nav.md",
-      "src": "contents/topic1.md",
-      "title": "",
+      "title": "About Me",
+      "src": "contents/about.md",
       "layout": "default",
       "headings": {
-        "topic-1": "Topic 1"
+        "about": "About 👋",
+        "goals": "Goals 🏆"
       },
       "headingKeywords": {}
     },
     {
       "header": "header.md",
       "siteNav": "site-nav.md",
-      "src": "contents/topic2.md",
-      "title": "",
+      "title": "MarkBind Cheatsheet",
+      "src": "contents/mbCheatsheet.md",
       "layout": "default",
-      "headings": {},
+      "headings": {
+        "sub-heading-1-1": "Sub Heading 1.1",
+        "sub-heading-1-2": "Sub Heading 1.2",
+        "heading-2": "Heading 2",
+        "heading-3": "Heading 3"
+      },
       "headingKeywords": {}
     },
     {
       "header": "header.md",
       "siteNav": "site-nav.md",
-      "src": "contents/topic3a.md",
-      "title": "",
+      "title": "Week 1",
+      "src": "contents/week1.md",
       "layout": "default",
-      "headings": {},
-      "headingKeywords": {}
-    },
-    {
-      "header": "header.md",
-      "siteNav": "site-nav.md",
-      "src": "contents/topic3b.md",
-      "title": "",
-      "layout": "default",
-      "headings": {},
+      "headings": {
+        "nothing-yet": "Nothing yet..."
+      },
       "headingKeywords": {}
     },
     {
@@ -44,15 +43,12 @@
       "pageNav": 2,
       "pageNavTitle": "Chapters of This Page",
       "siteNav": "site-nav.md",
+      "title": "Kendrick's CP3106 Blog",
       "src": "index.md",
-      "title": "Landing Page",
       "layout": "default",
       "headings": {
-        "heading-1": "Heading 1",
-        "sub-heading-1-1": "Sub Heading 1.1",
-        "sub-heading-1-2": "Sub Heading 1.2",
-        "heading-2": "Heading 2",
-        "heading-3": "Heading 3"
+        "introduction": "Introduction",
+        "blog-structure": "Blog Structure"
       },
       "headingKeywords": {}
     }

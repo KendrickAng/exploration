@@ -1,6 +1,7 @@
 {
   "baseUrl": "/exploration",
-  "titlePrefix": "",
+  "faviconPath": "favicon.png",
+  "titlePrefix": "CP3106",
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",
@@ -23,5 +24,11 @@
   ],
   "deploy": {
     "message": "Site Update."
+  },
+  "plugins": ["googleAnalytics"],
+  "pluginsContext": {
+    "googleAnalytics": {
+      "trackingID": "UA-175048156-1"
+    }
   }
 }

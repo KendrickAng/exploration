@@ -1,6 +1,7 @@
 <frontmatter>
   header: header.md
   siteNav: site-nav.md
+  title: About Me
 </frontmatter>
 
 <variable name="name">

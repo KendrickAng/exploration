@@ -1,8 +1,8 @@
 <navigation>
-* [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* [:house: Home]({{ baseUrl }}/index.html)
+* [:wave: About Me]({{ baseUrl }}/contents/about.html)
+* :notebook: Weekly Journal :expanded:
+  * [Week 1]({{ baseUrl }}/contents/week1.html)
+* :gift: Others :expanded:
+  * [MarkBind Cheatsheet]({{baseUrl}}/contents/mbCheatsheet.html)
 </navigation>

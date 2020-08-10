@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="MarkBind 2.15.2">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Landing Page</title>
+  <title>CP3106 - Kendrick's CP3106 Blog</title>
   <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
   <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
   <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
@@ -19,19 +19,22 @@
   <link rel="stylesheet" href="markbind/layouts/default/styles.css">
   <link rel="stylesheet" href="markbind/css/site-nav.css">
   <link rel="stylesheet" href="markbind/css/page-nav.css">
+  <link rel="icon" href="/exploration/favicon.png">
 </head>
 
 <body data-spy="scroll" data-target="#page-nav" data-offset="100">
   <div id="app">
     <header>
       <navbar type="dark" class="temp-navbar">
-        <a slot="brand" href="/exploration/index.html" title="Home" class="navbar-brand">Your Logo</a>
-        <li><a href="/exploration/contents/topic1.html" class="nav-link">Topic 1</a></li>
-        <li><a href="/exploration/contents/topic2.html" class="nav-link">Topic 2</a></li>
-        <div class="nav-link temp-dropdown-placeholder">Topic 3</div>
-        <dropdown class="nav-link temp-dropdown"><template slot="_header">Topic 3</template>
-          <li><a href="/exploration/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-          <li><a href="/exploration/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+        <a slot="brand" href="/exploration/index.html" title="Home" class="navbar-brand">CP3106 Blog</a>
+        <div class="nav-link temp-dropdown-placeholder">Journal</div>
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">Journal</template>
+          <li><a href="/exploration/contents/week1.html" class="dropdown-item">Week 1</a></li>
+        </dropdown>
+        <li><a href="/exploration/contents/about.html" class="nav-link">About</a></li>
+        <div class="nav-link temp-dropdown-placeholder">Others</div>
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">Others</template>
+          <li><a href="/exploration/contents/mbCheatsheet.html" class="dropdown-item">MarkBind Cheatsheet</a></li>
         </dropdown>
         <li slot="right">
           <form class="navbar-form">
@@ -45,24 +48,28 @@
         <div class="border-right-grey nav-inner position-sticky slim-scroll">
           <ul class="site-nav-list site-nav-list-root">
             <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/exploration/index.html" class="current">Home 🏠</a></div>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/exploration/index.html" class="current">🏠 Home</a></div>
             </li>
             <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic1.html">Topic 1</a></div>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/about.html">👋 About Me</a></div>
             </li>
             <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic2.html">Topic 2</a></div>
-            </li>
-            <li>
-              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">Topic 3
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">📓 Weekly Journal
                 <i class="site-nav-dropdown-btn-icon site-nav-rotate-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
                   <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i></div>
               <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic3a.html">Topic 3a</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/week1.html">Week 1</a></div>
                 </li>
+              </ul>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)">🎁 Others
+                <i class="site-nav-dropdown-btn-icon site-nav-rotate-icon" onclick="handleSiteNavClick(this.parentNode, false); event.stopPropagation();">
+                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i></div>
+              <ul class="site-nav-dropdown-container site-nav-dropdown-container-open site-nav-list">
                 <li>
-                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/topic3b.html">Topic 3b</a></div>
+                  <div class="site-nav-default-list-item site-nav-list-item-1" onclick="handleSiteNavClick(this)"><a href="/exploration/contents/mbCheatsheet.html">MarkBind Cheatsheet</a></div>
                 </li>
               </ul>
             </li>
@@ -74,156 +81,40 @@
         <br>
         <div class="jumbotron jumbotron-fluid bg-primary text-white">
           <div class="container">
-            <h1 class="display-4 no-index" id="landing-page-title">Landing Page Title<a class="fa fa-anchor" href="#landing-page-title" onclick="event.stopPropagation()"></a></h1>
-            <p class="lead">Welcome to Kendrick's website!</p>
+            <h1 class="display-4 no-index" id="kendrick-s-cp3106-blog">Kendrick's CP3106 Blog<a class="fa fa-anchor" href="#kendrick-s-cp3106-blog" onclick="event.stopPropagation()"></a></h1>
+            <p class="lead">Journalling my journey through MarkBind</p>
           </div>
         </div>
-        <h1 id="heading-1">Heading 1<a class="fa fa-anchor" href="#heading-1" onclick="event.stopPropagation()"></a></h1>
-        <p>Some text some text some text some text some text some text some text. <strong>Some text some text some text some text some text <mark>some text</mark> some text</strong>. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.</p>
-        <p><strong>A block quote:</strong></p>
-        <blockquote>
-          <p>Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.</p>
-        </blockquote>
-        <p><strong>A list:</strong></p>
-        <ul>
-          <li>item A</li>
-          <li>item B
-            <ol>
-              <li>item b1</li>
-              <li>item b2</li>
-              <li>item b3</li>
-            </ol>
-          </li>
-        </ul>
-        <p><strong>A <code v-pre>code</code> example:</strong></p>
-        <pre><code class="hljs html" v-pre><span><span class="hljs-tag">&lt;<span class="hljs-name">foo</span>&gt;</span><br></span><span>  <span class="hljs-tag">&lt;<span class="hljs-name">bar</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"name"</span>&gt;</span>goo<span class="hljs-tag">&lt;/<span class="hljs-name">bar</span>&gt;</span><br></span><span><span class="hljs-tag">&lt;/<span class="hljs-name">foo</span>&gt;</span><br></span></code></pre>
-        <h2 id="sub-heading-1-1">Sub Heading 1.1<a class="fa fa-anchor" href="#sub-heading-1-1" onclick="event.stopPropagation()"></a></h2>
-        <p>A <span effect="scale" placement="top" trigger="hover" data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-html-for="_content">❗️ some <strong>important explanation</strong></span>tooltip</span>, a <span for="modal:modalinfo" trigger="click" v-b-popover.click.top.html="popoverGenerator" v-b-tooltip.click.top.html="tooltipContentGetter" v-on:click="$refs['modal:modalinfo'].show()" class="trigger-click">modal</span>, a <a href="https://markbind.org/">link</a>, a <span class="badge badge-danger">badge</span>, another <span class="badge badge-warning">badge</span>.</p>
-        <b-modal id="modal:modalinfo" hide-footer size modal-class="mb-zoom" ref="modal:modalinfo"><template slot="modal-title">Modal Title</template>
-          Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-        </b-modal>
-        <p><strong>A table:</strong></p>
-        <div class="table-responsive">
-          <table class="markbind-table table table-bordered table-striped">
-            <thead>
-              <tr>
-                <th style="text-align:center">Column 1</th>
-                <th style="text-align:center">Column 2</th>
-                <th style="text-align:center">Column 3</th>
-                <th><span aria-hidden="true" class="far fa-thumbs-up"></span> / <span aria-hidden="true" class="far fa-thumbs-down"></span>?</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td style="text-align:center">value1</td>
-                <td style="text-align:center">x</td>
-                <td style="text-align:center">5</td>
-                <td><span aria-hidden="true" class="far fa-thumbs-up"></span></td>
-              </tr>
-              <tr>
-                <td style="text-align:center">value2</td>
-                <td style="text-align:center">y</td>
-                <td style="text-align:center">20</td>
-                <td><span aria-hidden="true" class="far fa-thumbs-down"></span></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <h2 id="sub-heading-1-2">Sub Heading 1.2<a class="fa fa-anchor" href="#sub-heading-1-2" onclick="event.stopPropagation()"></a></h2>
-        <p><strong>Media embeds:</strong></p>
-        <div class="block-embed block-embed-service-youtube"><iframe type="text/html" src="//www.youtube.com/embed/v40b3ExbM0c" frameborder="0" width="640" height="390" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-        <p><strong>Tabs:</strong></p>
-        <tabs>
-          <tab><template slot="_header">Tab X</template>
-            Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-          </tab>
-          <tab><template slot="_header">Tab Y</template>
-            ...
-          </tab>
-          <tab-group><template slot="_header">Tab group</template>
-            <tab><template slot="_header">Tab Y.1</template>
-              ...
-            </tab>
-            <tab><template slot="_header">Tab Y.2</template>
-              ...
-            </tab>
-          </tab-group>
-        </tabs>
-        <br>
-        <h1 id="heading-2">Heading 2<a class="fa fa-anchor" href="#heading-2" onclick="event.stopPropagation()"></a></h1>
-        <p><strong>Some boxes:</strong></p>
-        <box>
-          default
-        </box>
-        <box type="info">
-          info
-        </box>
-        <box type="warning" dismissible>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </box>
-        <box type="tip"><template slot="_header">
-            <p>Tip box heading</p>
-          </template>
-          tip
-        </box>
-        <box type="success"><template slot="_header">
-            <p>Tip box heading</p>
-          </template>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </box>
-        <box type="important" dismissible><template slot="_header">
-            <p>Tip box heading</p>
-          </template>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </box>
-        <br>
-        <h1 id="heading-3">Heading 3<a class="fa fa-anchor" href="#heading-3" onclick="event.stopPropagation()"></a></h1>
-        <panel type="info"><template slot="_header">
-            <p>Expandable panel</p>
-          </template>
-          Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-        </panel>
-        <br>
-        <panel type="success" minimized><template slot="_header">
-            <p>Expanded panel</p>
-          </template><template slot="_alt">
-            <p>Minimized panel</p>
-          </template>
-          ...
-        </panel>
-        <br>
-        <panel type="seamless"><template slot="_header">
-            <p>Expanded panel</p>
-          </template><template slot="_alt">
-            <p>Minimized panel</p>
-          </template>
-          ...
-        </panel>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          <panel type="minimal" popup-url="https://markbind.org/userGuide/usingComponents.html#panels" no-switch><template slot="_header">
-              <p><em><strong>Minimal panel <strong>-&gt;</strong></strong></em></p>
-            </template><template slot="_alt">
-              <p>Minimal panel</p>
-            </template>
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          </panel>
-        </p>
-        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h1 id="introduction">Introduction<a class="fa fa-anchor" href="#introduction" onclick="event.stopPropagation()"></a></h1>
+        <p>Hello! I'll be using this page to keep track of my progress through
+          <code v-pre>MarkBind</code>
+          .</p>
+        <h1 id="blog-structure">Blog Structure<a class="fa fa-anchor" href="#blog-structure" onclick="event.stopPropagation()"></a></h1>
+        <p>I plan to split my content into NUS academic weeks<span for="pop:footnote1" v-b-popover.hover.top.html="popoverGenerator" v-b-tooltip.hover.top.html="tooltipContentGetter" v-on:mouseover="$refs['pop:footnote1'].show()" class="trigger"><sup class="footnote-ref"><a aria-describedby="footnote-label" href="#footnote1" id="footnoteref1">[1]</a></sup></span>, keeping track of what happened every week.</p>
+        <hr class="footnotes-sep">
+        <section class="footnotes">
+          <ol class="footnotes-list">
+            <li id="footnote1" class="footnote-item">
+              <p>A semester includes 13 weeks of instruction and 2 weeks of end-of-year examinations.</p>
+            </li>
+          </ol>
+          <span id="pop:footnote1" data-mb-component-type="popover" v-b-popover.hover.top.html="popoverInnerGenerator" class="trigger">
+            <div data-mb-html-for="content">
+              <p>A semester includes 13 weeks of instruction and 2 weeks of end-of-year examinations.</p>
+            </div>
+          </span>
+        </section>
       </div>
+
+
 
 
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
           <a class="navbar-brand page-nav-title" href="#">Chapters of This Page</a>
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#heading-1">Heading 1&#x200E;</a>
-            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
-              <a class="nav-link py-1" href="#sub-heading-1-1">Sub Heading 1.1&#x200E;</a>
-              <a class="nav-link py-1" href="#sub-heading-1-2">Sub Heading 1.2&#x200E;</a>
-            </nav>
-            <a class="nav-link py-1" href="#heading-2">Heading 2&#x200E;</a>
-            <a class="nav-link py-1" href="#heading-3">Heading 3&#x200E;</a>
+            <a class="nav-link py-1" href="#introduction">Introduction&#x200E;</a>
+            <a class="nav-link py-1" href="#blog-structure">Blog Structure&#x200E;</a>
 
           </nav>
         </div>
@@ -246,6 +137,19 @@
   const enableSearch = true
 </script>
 <script src="markbind/js/setup.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175048156-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175048156-1');
+</script>
 <script src="markbind/layouts/default/scripts.js"></script>
 
 </html>
