@@ -6,6 +6,7 @@ This repository stores everything interesting and miscellaneous!
 
 ## [MarkBind](https://markbind.org/)
 `MarkBind` uses Markdown to generate beautiful websites.
+![Here](https://kendrickang.github.io/exploration/) is a blog about my Open-Source contributions to MarkBind.
 
 ## [Nunjucks](https://mozilla.github.io/nunjucks/)
 `Nunjucks` is a templating language used with Javascript.
