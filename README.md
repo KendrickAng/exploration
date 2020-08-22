@@ -14,4 +14,7 @@ This repository stores everything interesting and miscellaneous!
 * It usually supports looping, conditional logic and special formatting.
 
 ## [CommanderJS](https://github.com/tj/commander.js/#commanderjs)
-`CommanderJS` is a library for making command-line interfaces easy.
+`CommanderJS` is a nodeJS library for making command-line interfaces easy.
+
+## [Markdown-it](https://github.com/markdown-it/markdown-it)
+`Markdown-it` is a nodeJS library for parsing Markdown into html.
