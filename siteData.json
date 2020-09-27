@@ -1,0 +1,42 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "contents/about.md",
+      "title": "About Me",
+      "headings": {
+        "about": "About 👋",
+        "goals": "Goals 🏆"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/mbCheatsheet.md",
+      "title": "MarkBind Cheatsheet",
+      "headings": {
+        "sub-heading-1-1": "Sub Heading 1.1",
+        "sub-heading-1-2": "Sub Heading 1.2",
+        "heading-2": "Heading 2",
+        "heading-3": "Heading 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week1.md",
+      "title": "Week 1",
+      "headings": {
+        "nothing-yet": "Nothing yet..."
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Kendrick's CP3106 Blog",
+      "headings": {
+        "introduction": "Introduction",
+        "blog-structure": "Blog Structure"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
